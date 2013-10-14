@@ -3,6 +3,8 @@ Product = require './resources/product'
 Order = require './resources/order'
 Resource = require './resource'
 Session = require './session'
+Checkout = require './checkout'
+
 
 class SessionOAuth extends Session
 
